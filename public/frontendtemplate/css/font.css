@@ -1,0 +1,5 @@
+@font-face
+{
+	font-family:'aa';
+	src: url('{{asset('frontendtemplate/fonts/Quicksand-VariableFont_wght.ttf')}}') format('ttf');
+}
